@@ -123,4 +123,8 @@ hr{
         border: #BF4B4B solid 3px;
         border-radius: 20px;
     }
+
+    #banner1{
+        width: 50%;
+    }
 }
